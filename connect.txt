@@ -1,0 +1,9 @@
+2-servo
+3-echo BROWN COVER
+4-trig BLUE
+5-sound
+6-ir
+7-ir
+8-13-motor
+VCC BROWN TAPED
+GND PURPLE
